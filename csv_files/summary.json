@@ -1,0 +1,13 @@
+{
+  "n_trader_days": 7,
+  "trader_date_range": [
+    "2023-03-28",
+    "2025-06-15"
+  ],
+  "n_sentiment_days": 2644,
+  "sentiment_date_range": [
+    "2018-02-01",
+    "2025-05-02"
+  ],
+  "n_overlap_days": 5
+}
