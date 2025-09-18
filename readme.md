@@ -1,7 +1,7 @@
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 1. Open the main notebook in Google Colab:  
     [notebook_1.ipynb on Colab](https://colab.research.google.com/drive/13HRtWsBn0044VSJFmWnDxI9TatYs45Un?usp=sharing)
